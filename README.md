@@ -1,4 +1,13 @@
 # study-buddy-todo
+import React from "react";
+
+function App() {
+  return <h1>Todo 앱 테스트</h1>;
+}
+
+export default App;
+
+
 import React, { useState } from 'react';
 
 function App() {
